@@ -1,0 +1,15 @@
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\bin\Debug\net6.0\ShapeCalculatorConsole.App.exe
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\bin\Debug\net6.0\ShapeCalculatorConsole.App.deps.json
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\bin\Debug\net6.0\ShapeCalculatorConsole.App.runtimeconfig.json
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\bin\Debug\net6.0\ShapeCalculatorConsole.App.dll
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\bin\Debug\net6.0\ref\ShapeCalculatorConsole.App.dll
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\bin\Debug\net6.0\ShapeCalculatorConsole.App.pdb
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\obj\Debug\net6.0\ShapeCalculatorConsole.App.csproj.AssemblyReference.cache
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\obj\Debug\net6.0\ShapeCalculatorConsole.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\obj\Debug\net6.0\ShapeCalculatorConsole.App.AssemblyInfoInputs.cache
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\obj\Debug\net6.0\ShapeCalculatorConsole.App.AssemblyInfo.cs
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\obj\Debug\net6.0\ShapeCalculatorConsole.App.csproj.CoreCompileInputs.cache
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\obj\Debug\net6.0\ShapeCalculatorConsole.App.dll
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\obj\Debug\net6.0\ref\ShapeCalculatorConsole.App.dll
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\obj\Debug\net6.0\ShapeCalculatorConsole.App.pdb
+C:\Users\mkare_wyte20y\Coding01\CodingExcercises\ShapeCalculatorConsole\ShapeCalculatorConsole.App\obj\Debug\net6.0\ShapeCalculatorConsole.App.genruntimeconfig.cache

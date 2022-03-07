@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05c3f005-d7a9-4c0a-9fa9-8cd9405cf600": {
+      "ProjectGuid": "05c3f005-d7a9-4c0a-9fa9-8cd9405cf600",
+      "DisplayName": "ShapeCalculatorConsole.App",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

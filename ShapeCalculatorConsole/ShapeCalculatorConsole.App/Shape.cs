@@ -1,6 +1,6 @@
 using System;
 
-namespace AbstractClassesChallenge
+namespace ShapeAbstractChallange
 {
     abstract public class Shape
     {
@@ -42,6 +42,12 @@ namespace AbstractClassesChallenge
         
         // This method sets the Area of the shape
         protected abstract void SetArea();
+
+        //This method returns the value sides of shapes
+        public abstract void GetSidesInfo();
+
+        //This method returns formula with values
+        public abstract void GetAreaFormula();
 
     }
 }

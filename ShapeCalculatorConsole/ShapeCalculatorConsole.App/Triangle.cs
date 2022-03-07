@@ -9,7 +9,7 @@ namespace ShapeAbstractChallange
             //s = (a+b+c)/2 (this is the semi-perimeter)
             //area = sqrt*(s(s-a)(s-b)*(s-c))
             double sideA=0, sideB=0, sideC=0;
-            public Triangle( double sideA, double sideB, double sideC, string Name, int NumSides) : base (Name, NumSides)
+            public Triangle(double sideA, double sideB, double sideC, string Name, int NumSides) : base (Name, NumSides)
         {
             this.sideA = sideA;
             this.sideB = sideB;

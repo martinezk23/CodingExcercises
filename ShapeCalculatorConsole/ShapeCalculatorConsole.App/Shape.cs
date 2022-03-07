@@ -1,5 +1,6 @@
 using System;
 
+
 namespace ShapeAbstractChallange
 {
     abstract public class Shape

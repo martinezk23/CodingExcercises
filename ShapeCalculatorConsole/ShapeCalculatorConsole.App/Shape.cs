@@ -8,20 +8,20 @@ namespace ShapeAbstractChallange
         public string Name { get; set; } = "";
         public int NumSides { get; set; } = 0;
         protected double area;
-        
-        protected double Area 
-        { 
+
+        protected double Area
+        {
             get
             {
                 return this.area;
-            } 
+            }
             set
             {
-                if(value > 0)
+                if (value > 0)
                     this.area = value;
             }
         }
-        
+
         // Constructor
         public Shape(string Name, int NumSides)
         {
@@ -40,12 +40,14 @@ namespace ShapeAbstractChallange
         {
             return this.Area;
         }
-        
+
         // This method sets the Area of the shape
         protected abstract void SetArea();
 
         //This method returns the value sides of shapes
         public abstract void GetSidesInfo();
+
+
 
         //This method returns formula with values
         public abstract void GetAreaFormula();

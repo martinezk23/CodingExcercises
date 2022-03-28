@@ -26,11 +26,14 @@ namespace ShapeAbstractChallange
 
         public override void GetSidesInfo()
         {
+
             throw new NotImplementedException();
+          
         }
 
         public override void GetAreaFormula()
         {
+            
             throw new NotImplementedException();
         }
         
